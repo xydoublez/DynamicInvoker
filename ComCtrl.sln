@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComCtrl", "ComCtrl\ComCtrl.csproj", "{F7A64464-102F-4CD8-ACF0-E8B3A45BFEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testForm", "testForm\testForm.csproj", "{C2B2A68E-12AF-4BA9-BF30-1F16224807E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A64464-102F-4CD8-ACF0-E8B3A45BFEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A64464-102F-4CD8-ACF0-E8B3A45BFEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A64464-102F-4CD8-ACF0-E8B3A45BFEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A64464-102F-4CD8-ACF0-E8B3A45BFEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B2A68E-12AF-4BA9-BF30-1F16224807E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B2A68E-12AF-4BA9-BF30-1F16224807E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B2A68E-12AF-4BA9-BF30-1F16224807E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B2A68E-12AF-4BA9-BF30-1F16224807E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9AE792D-9842-4B67-ADB9-D8F5D80AFB4F}
+	EndGlobalSection
+EndGlobal
