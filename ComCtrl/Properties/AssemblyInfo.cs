@@ -11,7 +11,7 @@ using System.Runtime.Versioning;
 [assembly: AssemblyTitle("公共Com组件")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("inspur浪潮")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: ComVisible(true)]
