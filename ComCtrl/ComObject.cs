@@ -465,10 +465,10 @@ namespace ComCtrl
 		}
 
 		// Token: 0x04000007 RID: 7
-		private string iniFile = "C:\\Program Files\\浪潮集团金融事业部\\DevCtrler\\module\\ComCtrl\\ComCtrl.ini";
+		private string iniFile = "ComCtrl.ini";
 
 		// Token: 0x04000008 RID: 8
-		private string LogPath = "C:\\Program Files\\浪潮集团金融事业部\\devctrler\\module\\ComCtrl\\log";
+		private string LogPath = "log";
         
 	}
 }
